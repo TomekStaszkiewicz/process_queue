@@ -1,0 +1,25 @@
+{
+  "name": "process_queue",
+  "version": "1.0.0",
+  "description": "Simple process queue.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomekStaszkiewicz/process_queue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomekStaszkiewicz/process_queue/issues"
+  },
+  "homepage": "https://github.com/TomekStaszkiewicz/process_queue#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
